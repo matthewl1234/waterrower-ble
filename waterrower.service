@@ -6,7 +6,7 @@ StandardError=syslog
 SyslogIdentifier=waterrower
 User=pi
 Group=pi
-WorkingDirectory=/home/pi/waterrower-ble
+WorkingDirectory=/home/pi/matthewl1234/waterrower-ble
 
 [Install]
 WantedBy=multi-user.target
